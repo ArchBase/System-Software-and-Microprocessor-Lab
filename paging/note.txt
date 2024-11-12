@@ -1,1 +1,0 @@
-no_of_frames = memory_size/no_of_pages
